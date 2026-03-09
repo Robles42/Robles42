@@ -16,19 +16,19 @@
 ### 👤 Professional Summary
 Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **Systems Programming** and **Linux Environments**. I focus on building scalable, high-performance solutions, ranging from **Point of Sale (POS) systems** to **Industrial Automation** and **Database Optimization**. 
 
-* 🔭 Currently developing: **IconicHats POS** (C++/SQL) and **Nexora Digital Catalog**.
-* ⚡ Expert in: Linux Kernel optimization (Arch/Fedora), Shell Scripting, and Database Triggers.
-* 🌱 Learning: Advanced Multivariable Calculus & Differential Equations for high-performance computing.
+* 🔭 **Current Projects:** Developing **IconicHats POS** (C++/SQL) and **Nexora Digital Catalog**.
+* ⚡ **Technical Focus:** Linux Kernel optimization (Arch/Fedora), Shell Scripting, and Database Triggers.
+* 🌱 **Academic Path:** Advanced studies in Multivariable Calculus and Differential Equations.
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠 Technical Ecosystem (ATS Optimized)
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++`, `Bash`, `SQL (MySQL/MariaDB)`, `JavaScript/Node.js` |
+| **Languages** | `C++`, `Bash`, `SQL (MySQL/MariaDB)`, `JavaScript` |
 | **Linux Distros** | `Arch Linux (Hyprland WM)`, `Fedora Workstation`, `Debian`, `Ubuntu` |
-| **Tools & DevOps** | `Git`, `GitHub Actions`, `Vim/Neovim`, `VS Code`, `Package Management (DNF/Pacman)` |
+| **Tools & DevOps** | `Git`, `GitHub Actions`, `Vim/Neovim`, `VS Code`, `Package Management` |
 | **Specialized** | `PLC Systems`, `Sensor Integration`, `Industrial Automation`, `Embedded Systems` |
 
 <p align="left">
@@ -37,22 +37,22 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ---
 
-### 📂 Featured Projects & Expertise
+### 📂 Featured Expertise
 
 #### 🏪 Enterprise Solutions
-* **IconicHats POS:** A high-performance Point of Sale system focusing on inventory management and real-time transaction processing using C++ and optimized SQL schemas.
+* **IconicHats POS:** High-performance inventory management system using C++ and optimized SQL schemas.
 * **Nexora Digital Catalog:** Web-based platform for brand visualization and product management.
 
-#### 🐧 Linux & Systems
-* **Custom Environment Engineering:** Advanced configuration of **Arch Linux** with **Hyprland**, focusing on productivity workflows, window management, and automated system maintenance via Bash.
-* **Database Engineering:** Implementation of complex **Triggers**, Stored Procedures, and relational modeling for data integrity.
+#### 🐧 Linux & Systems Engineering
+* **Custom Environment Engineering:** Advanced configuration of **Arch Linux** with **Hyprland**, focusing on automated system maintenance via Bash.
+* **Database Engineering:** Expert implementation of **Triggers**, Stored Procedures, and relational modeling.
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ---
 
-### 📈 Activity & Contributions
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robles42&theme=tokyo-night&area=true" width="100%" />
 </p>
@@ -69,9 +69,9 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 ---
 
 ### 🤝 Contact & Connectivity
-* **LinkedIn:** [linkedin.com/in/Robles42](https://linkedin.com/in/Robles42)
 * **Location:** Mazatlán, Sinaloa, México 🇲🇽
 * **GitHub:** [github.com/Robles42](https://github.com/Robles42)
+* **Status:** IT Engineering Student Representative
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Robles42/Robles42/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
