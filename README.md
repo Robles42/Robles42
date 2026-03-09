@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Robles42&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -51,30 +51,30 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Robles42&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robles42&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
 
 ### 🤝 Contact & Connectivity
-* **LinkedIn:** [linkedin.com/in/santiago-robles](https://linkedin.com/in/TUUSUARIO)
+* **LinkedIn:** [linkedin.com/in/Robles42](https://linkedin.com/in/Robles42)
 * **Location:** Mazatlán, Sinaloa, México 🇲🇽
-* **Portfolio:** [Link a tu portafolio o Nexora project]
+* **GitHub:** [github.com/Robles42](https://github.com/Robles42)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Robles42/Robles42/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
