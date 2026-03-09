@@ -51,8 +51,8 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -72,10 +72,6 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 * **Location:** Mazatlán, Sinaloa, México 🇲🇽
 * **GitHub:** [github.com/Robles42](https://github.com/Robles42)
 * **Status:** IT Engineering Student Representative
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Robles42/Robles42/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <sub>Built with ❤️ and powered by <b>Arch Linux</b></sub>
