@@ -13,16 +13,16 @@
 
 ---
 
-### 👤 Professional Summary
+###  Professional Summary
 Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **Systems Programming** and **Linux Environments**. I focus on building scalable, high-performance solutions, ranging from **Point of Sale (POS) systems** to **Industrial Automation** and **Database Optimization**. 
 
-* 🔭 **Current Projects:** Developing **IconicHats POS** (C++/SQL) and **Nexora Digital Catalog**.
-* ⚡ **Technical Focus:** Linux Kernel optimization (Arch/Fedora), Shell Scripting, and Database Triggers.
-* 🌱 **Academic Path:** Advanced studies in Multivariable Calculus and Differential Equations.
+*  **Current Projects:** Developing **IconicHats POS** (C++/SQL) and **Nexora Digital Catalog**.
+*  **Technical Focus:** Linux Kernel optimization (Arch/Fedora), Shell Scripting, and Database Triggers.
+*  **Academic Path:** Advanced studies in Multivariable Calculus and Differential Equations.
 
 ---
 
-### 🛠 Technical Ecosystem (ATS Optimized)
+###  Technical Ecosystem (ATS Optimized)
 
 | Category | Technologies |
 | :--- | :--- |
@@ -37,19 +37,19 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ---
 
-### 📂 Featured Expertise
+###  Featured Expertise
 
-#### 🏪 Enterprise Solutions
+####  Enterprise Solutions
 * **IconicHats POS:** High-performance inventory management system using C++ and optimized SQL schemas.
 * **Nexora Digital Catalog:** Web-based platform for brand visualization and product management.
 
-#### 🐧 Linux & Systems Engineering
+####  Linux & Systems Engineering
 * **Custom Environment Engineering:** Advanced configuration of **Arch Linux** with **Hyprland**, focusing on automated system maintenance via Bash.
 * **Database Engineering:** Expert implementation of **Triggers**, Stored Procedures, and relational modeling.
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight" />
@@ -61,18 +61,18 @@ Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robles42&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
 
-### 🤝 Contact & Connectivity
-* **Location:** Mazatlán, Sinaloa, México 🇲🇽
+###  Contact & Connectivity
+* **Location:** Mazatlán, Sinaloa, México
 * **GitHub:** [github.com/Robles42](https://github.com/Robles42)
 * **Status:** IT Engineering Student Representative
 
 <p align="center">
-  <sub>Built with ❤️ and powered by <b>Arch Linux</b></sub>
+  <sub>Built with  and powered by <b>Arch Linux</b></sub>
 </p>
