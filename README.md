@@ -1,78 +1,52 @@
-<h1 align="center">Santiago Robles</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Backend%20%26%20Systems%20Developer;Linux%20Kernel%20%26%20SysAdmin%20Enthusiast;Automation%20%26%20Embedded%20Systems&center=true&width=600&height=45&color=0e75b6">
-</p>
+# Carlos Santiago Sánchez Robles
+## Software Engineer & Digital Innovation Specialist
 
-<p align="center">
-  <b>Software Engineering | Linux Systems | Backend Development | Industrial Automation</b>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Robles42&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+Ingeniero en Tecnología Digital e Innovación por la Universidad Politécnica de Sinaloa (UPSIN). Especializado en el ciclo de vida completo del desarrollo de software, desde la arquitectura de bases de datos hasta la implementación de interfaces de usuario escalables y la optimización de entornos de ejecución en sistemas Unix-like.
 
 ---
 
-###  Professional Summary
-Fourth-year **IT Engineering Student** based in Mazatlán, MX. Specialized in **Systems Programming** and **Linux Environments**. I focus on building scalable, high-performance solutions, ranging from **Point of Sale (POS) systems** to **Industrial Automation** and **Database Optimization**. 
+### Perfil Profesional
 
-*  **Current Projects:** Developing **IconicHats POS** (C++/SQL) and **Nexora Digital Catalog**.
-*  **Technical Focus:** Linux Kernel optimization (Arch/Fedora), Shell Scripting, and Database Triggers.
-*  **Academic Path:** Advanced studies in Multivariable Calculus and Differential Equations.
+- **Arquitectura de Software:** Desarrollo de aplicaciones Full Stack utilizando microservicios y arquitecturas orientadas a eventos.
+- **Sistemas y Operaciones:** Experto en administración de sistemas GNU/Linux (Arch, Fedora), automatización mediante scripting y gestión de despliegues.
+- **Inteligencia Artificial:** Implementación de modelos generativos para la optimización de flujos de trabajo corporativos y análisis de datos.
 
 ---
 
-###  Technical Ecosystem (ATS Optimized)
+### Stack Tecnológico
 
-| Category | Technologies |
+| Dominio | Tecnologías |
 | :--- | :--- |
-| **Languages** | `C++`, `Bash`, `SQL (MySQL/MariaDB)`, `JavaScript` |
-| **Linux Distros** | `Arch Linux (Hyprland WM)`, `Fedora Workstation`, `Debian`, `Ubuntu` |
-| **Tools & DevOps** | `Git`, `GitHub Actions`, `Vim/Neovim`, `VS Code`, `Package Management` |
-| **Specialized** | `PLC Systems`, `Sensor Integration`, `Industrial Automation`, `Embedded Systems` |
+| **Backend** | Node.js, Java, C++, Python, Express.js |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5/CSS3 (Sass) |
+| **Data & Storage** | MySQL, PostgreSQL, MongoDB, Estructuras de Datos Avanzadas |
+| **Herramientas** | Git/GitHub, Docker, Bash, Linux Kernel Optimization |
+
+---
+
+### Proyectos de Alto Impacto
+
+#### **IconicHats | Enterprise POS Solution**
+Desarrollo de un sistema de punto de venta robusto para retail, enfocado en la integridad de datos, control de inventario dinámico y reportería financiera automatizada.
+
+#### **ReportGen AI | Intelligent Data Processing**
+Ingeniería de una plataforma que procesa esquemas de bases de datos complejos para generar documentación y reportes técnicos mediante procesamiento de lenguaje natural (NLP).
+
+---
+
+### Análisis de Rendimiento en GitHub
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,bash,linux,mysql,git,github,vscode,nodejs,arduino,svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas Generales" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" height="150" />
 </p>
 
 ---
 
-###  Featured Expertise
+### Contacto Profesional
 
-####  Enterprise Solutions
-* **IconicHats POS:** High-performance inventory management system using C++ and optimized SQL schemas.
-* **Nexora Digital Catalog:** Web-based platform for brand visualization and product management.
-
-####  Linux & Systems Engineering
-* **Custom Environment Engineering:** Advanced configuration of **Arch Linux** with **Hyprland**, focusing on automated system maintenance via Bash.
-* **Database Engineering:** Expert implementation of **Triggers**, Stored Procedures, and relational modeling.
+- **LinkedIn:** [linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b](https://www.linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b)
+- **Ubicación:** Mazatlán, Sinaloa, México
+- **Disponibilidad:** Proyectos de Consultoría y Desarrollo de Software
 
 ---
-
-###  GitHub Analytics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Robles42&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-###  Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robles42&theme=tokyo-night&area=true" width="100%" />
-</p>
-
----
-
-###  Contact & Connectivity
-* **Location:** Mazatlán, Sinaloa, México
-* **GitHub:** [github.com/Robles42](https://github.com/Robles42)
-* **Status:** IT Engineering Student Representative
-
-<p align="center">
-  <sub>Built with  and powered by <b>Arch Linux</b></sub>
-</p>
