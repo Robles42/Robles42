@@ -44,4 +44,5 @@ Especialista en desarrollo de software con enfoque en arquitectura de sistemas, 
 
 * **LinkedIn:** [linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b](https://www.linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b)
 * **GitHub Organization:** [github.com/Robles42](https://github.com/Robles42)
-* **Email:** [Tu correo institucional o profesional]
+* **Email:** JesterSoek85@gmail.com
+* 
