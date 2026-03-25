@@ -13,22 +13,31 @@ Especialista en desarrollo de software con enfoque en arquitectura de sistemas, 
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend Development** | Python (FastAPI, Flask), Node.js, C, C++, Java |
-| **Infrastructure & DevOps** | Docker, Docker Compose, Nginx, Bash Scripting, SELinux |
-| **Data & Persistence** | PostgreSQL, SQLite, SQLAlchemy ORM, Scikit-learn |
-| **Operating Systems** | Fedora Linux (Workstation/Server), Arch Linux |
+| **Backend Development** | Python (FastAPI, Flask), Node.js, C, C++, Java, PHP |
+| **Infrastructure & DevOps** | Docker, Docker Compose, Nginx, Bash Scripting, SELinux, Cloud (AWS/Azure) |
+| **Data & Persistence** | PostgreSQL, MySQL, SQLite, SQLAlchemy ORM, Scikit-learn |
+| **Operating Systems** | Fedora Linux (Workstation/Server), Arch Linux, Ubuntu |
 | **Version Control** | Git, GitHub (Gitflow, Actions) |
 
 ---
 
-## Ecosistema de Proyectos: Nexora Ops & Inventory
+## Ecosistema de Proyectos Principales
 
-| Repositorio | Área | Descripción Técnica |
-| :--- | :--- | :--- |
-| **Nexora Inventory-Core** | Backend | API RESTful con validación Pydantic y persistencia relacional. |
-| **Nexora Ops-Hub** | DevOps | Arquitectura de microservicios con balanceo de carga y monitoreo. |
-| **Nexora Analytics** | Data Science | Implementación de modelos predictivos y procesamiento de datos. |
-| **Smart-Catalog** | Automation | Motor de generación de documentos técnicos y procesamiento de imágenes. |
+### Nexora Enterprise Suite
+*Arquitectura multi-lenguaje de grado empresarial para gestión de inventarios y operaciones de la marca Nexora.*
+* **Nexora Inventory-Core:** API RESTful con validación Pydantic y persistencia relacional.
+* **Nexora Ops-Hub:** Microservicios en Python para monitoreo de red y balanceo de carga.
+* **Nexora Analytics:** Implementación de modelos predictivos y procesamiento de datos para optimización de inventarios.
+
+### Herramientas de Sistema y Ciberseguridad
+* **Sistema de Autenticación Biométrica:** Implementación de protocolos de seguridad mediante reconocimiento y validación de datos biométricos.
+* **TaskMaster-CLI:** Gestor de tareas robusto desarrollado en C++ para terminal enfocado en eficiencia de recursos.
+* **ReportGen AI:** Plataforma inteligente para la generación de reportes automatizados mediante IA.
+* **Smart-Catalog:** Motor de generación de catálogos técnicos y procesamiento de imágenes.
+
+### Soluciones de Software y Retail
+* **IconicHats POS:** Web app completa (punto de venta) diseñada para la gestión integral de inventarios y ventas en retail.
+* **Solutions ABC:** Aplicación conceptual para análisis y reseñas gastronómicas en el mercado regional de Mazatlán.
 
 ---
 
@@ -43,6 +52,5 @@ Especialista en desarrollo de software con enfoque en arquitectura de sistemas, 
 ## Información de Contacto
 
 * **LinkedIn:** [linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b](https://www.linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b)
-* **GitHub Organization:** [github.com/Robles42](https://github.com/Robles42)
-* **Email:** JesterSoek85@gmail.com
-* 
+* **GitHub:** [github.com/Robles42](https://github.com/Robles42)
+* **Email:** [JesterSoek85@gmail.com](mailto:JesterSoek85@gmail.com)
