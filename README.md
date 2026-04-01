@@ -1,56 +1,60 @@
-# Carlos Santiago Sánchez Robles
-**Ingeniero en Tecnología Digital e Innovación | UPSIN**
-*Mazatlán, Sinaloa, México*
+╔══════════════════════════════════════════════════════════════════════╗
+║  DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX     ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+## Carlos Santiago Sánchez Robles
+**Building resilient infrastructure — from kernel-level logic to enterprise microservices.**
+
+Building things from the ground up — bytes, pages, and systems.
 
 ---
 
-## Perfil Profesional
-Especialista en desarrollo de software con enfoque en arquitectura de sistemas, infraestructura sobre distribuciones Linux (Fedora/Arch) y automatización de procesos industriales. Experiencia en la implementación de ciclos de vida de software (SDLC), desde el análisis de datos masivos hasta el despliegue de microservicios en contenedores.
+### ⚙️ What I'm Building
+
+#### 🏢 [Nexora Enterprise Suite](https://github.com/Robles42)
+**Multi-language Enterprise Ecosystem**
+* **Inventory-Core:** RESTful API de alto rendimiento con validación Pydantic y persistencia relacional.
+* **Ops-Hub:** Orquestación de microservicios en Python para monitoreo de red y balanceo de carga.
+* **Analytics:** Modelos predictivos y procesamiento de datos masivos para optimización de inventarios.
+
+#### 🛡️ [System Tools & Cybersecurity](https://github.com/Robles42)
+* **Biometric Auth System:** Implementación de protocolos de seguridad mediante validación de datos biométricos.
+* **TaskMaster-CLI:** Gestor de tareas robusto desarrollado en **C++** enfocado en eficiencia extrema de recursos.
+* **ReportGen AI:** Plataforma para la generación de reportes automatizados mediante IA.
+
+#### 🛍️ [Retail & Web Solutions](https://github.com/Robles42)
+* **IconicHats POS:** Web app (Punto de Venta) integral para gestión de retail.
+* **Solutions ABC:** Aplicación de análisis y reseñas gastronómicas para el mercado de Mazatlán.
 
 ---
 
-## Stack Tecnológico
+### 🛠️ Stack
 
-| Categoría | Tecnologías y Herramientas |
+| Category | Technologies |
 | :--- | :--- |
-| **Backend Development** | Python (FastAPI, Flask), Node.js, C, C++, Java, PHP |
-| **Infrastructure & DevOps** | Docker, Docker Compose, Nginx, Bash Scripting, SELinux, Cloud (AWS/Azure) |
-| **Data & Persistence** | PostgreSQL, MySQL, SQLite, SQLAlchemy ORM, Scikit-learn |
-| **Operating Systems** | Fedora Linux (Workstation/Server), Arch Linux, Ubuntu |
-| **Version Control** | Git, GitHub (Gitflow, Actions) |
+| **Backend** | `Python (FastAPI/Flask)` `C` `C++` `Java` `Node.js` `PHP` |
+| **Infrastructure** | `Docker` `Nginx` `Bash Scripting` `SELinux` `AWS/Azure` |
+| **Data** | `PostgreSQL` `MySQL` `SQLAlchemy ORM` `Scikit-learn` |
+| **OS** | `Fedora Linux` `Arch Linux` `Ubuntu` |
 
 ---
 
-## Ecosistema de Proyectos Principales
+### 📊 GitHub Stats
 
-### Nexora Enterprise Suite
-*Arquitectura multi-lenguaje de grado empresarial para gestión de inventarios y operaciones de la marca Nexora.*
-* **Nexora Inventory-Core:** API RESTful con validación Pydantic y persistencia relacional.
-* **Nexora Ops-Hub:** Microservicios en Python para monitoreo de red y balanceo de carga.
-* **Nexora Analytics:** Implementación de modelos predictivos y procesamiento de datos para optimización de inventarios.
-
-### Herramientas de Sistema y Ciberseguridad
-* **Sistema de Autenticación Biométrica:** Implementación de protocolos de seguridad mediante reconocimiento y validación de datos biométricos.
-* **TaskMaster-CLI:** Gestor de tareas robusto desarrollado en C++ para terminal enfocado en eficiencia de recursos.
-* **ReportGen AI:** Plataforma inteligente para la generación de reportes automatizados mediante IA.
-* **Smart-Catalog:** Motor de generación de catálogos técnicos y procesamiento de imágenes.
-
-### Soluciones de Software y Retail
-* **IconicHats POS:** Web app completa (punto de venta) diseñada para la gestión integral de inventarios y ventas en retail.
-* **Solutions ABC:** Aplicación conceptual para análisis y reseñas gastronómicas en el mercado regional de Mazatlán.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## Indicadores de Actividad y Repositorios
+### 🎯 Goals & Philosophy
 
-![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Robles42&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![Estadísticas de Usuario](https://github-readme-stats.vercel.app/api?username=Robles42&show_icons=true&theme=dark&hide_border=true&count_private=true)
+* 🎓 **Software Engineering** · UPSIN Class of 2027
+* 🏢 Enfocado en el ciclo de vida de software (**SDLC**) y microservicios.
+* 🐧 Especialista en entornos **Linux** (Fedora/Arch) y automatización industrial.
+* "La mejor forma de entender un sistema es construirlo desde sus cimientos."
 
 ---
 
-## Información de Contacto
+### 📫 Connect with me
 
-* **LinkedIn:** [linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b](https://www.linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b)
-* **GitHub:** [github.com/Robles42](https://github.com/Robles42)
-* **Email:** [JesterSoek85@gmail.com](mailto:JesterSoek85@gmail.com)
+[LinkedIn](https://linkedin.com/in/carlos-santiago-sanchez-robles-a8834235b) · [Email](mailto:JesterSoek85@gmail.com) · [GitHub](https://github.com/Robles42)
