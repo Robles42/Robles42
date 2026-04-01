@@ -1,8 +1,6 @@
-*******
-
-╔════════════════════════════════════════════════════════════════╗
-║DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║   DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX    ║
+╚══════════════════════════════════════════════════════════════════════╝
 
 ## Carlos Santiago Sánchez Robles
 **Building resilient infrastructure — from kernel-level logic to enterprise microservices.**
@@ -15,7 +13,7 @@ Building things from the ground up — bytes, pages, and systems.
 
 #### 🏢 [Nexora Enterprise Suite](https://github.com/Robles42)
 **Multi-language Enterprise Ecosystem**
-* **Inventory-Core:** RESTful API de alto rendimiento con validación Pydantic y persistencia relacional.
+* **Inventory-Core:** API RESTful con validación Pydantic y persistencia relacional.
 * **Ops-Hub:** Orquestación de microservicios en Python para monitoreo de red y balanceo de carga.
 * **Analytics:** Modelos predictivos y procesamiento de datos masivos para optimización de inventarios.
 
