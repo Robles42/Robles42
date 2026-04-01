@@ -1,6 +1,7 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║  DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX     ║
-╚══════════════════════════════════════════════════════════════════════╝
+```text
+╔════════════════════════════════════════════════════════════════╗
+║  DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX ║
+╚════════════════════════════════════════════════════════════════╝
 
 ## Carlos Santiago Sánchez Robles
 **Building resilient infrastructure — from kernel-level logic to enterprise microservices.**
