@@ -1,6 +1,6 @@
-```text
+
 ╔════════════════════════════════════════════════════════════════╗
-║  DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX ║
+║DIGITAL TECH ENGINEER · BACKEND ARCHITECT · FEDORA & ARCH LINUX ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ## Carlos Santiago Sánchez Robles
